@@ -1,9 +1,4 @@
-//
-//  QuestionsViewController.swift
-//  PersonalityQuiz
-//
-//  Created by Alexey Efimov on 30.08.2021.
-//
+
 
 import UIKit
 
